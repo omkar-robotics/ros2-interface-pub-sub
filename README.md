@@ -110,7 +110,7 @@ ros2 run my_py_pkg hardware_pub
 ## 📊 Sample Output
 
 ```
- Publishing:
+Publishing:
 Version: 1
 Temperature: 45.3
 Motors Ready: True
@@ -118,8 +118,8 @@ Motors Ready: True
 Received:
 Version: 1, Temp: 45.3, Motors: True
 
-⚠️ High Temperature: 65.0
-❌ Motors NOT ready!
+High Temperature: 65.0
+Motors NOT ready!
 ```
 
 ---
@@ -135,15 +135,7 @@ Version: 1, Temp: 45.3, Motors: True
 
 ## 📷 Output Preview
 
-(Add your screenshot here)
-
-```
-
-```
-
-Then add:
-
-![Output](images/output.png)
+<img width="100%" src="Screenshot from 2026-05-01 12-33-08.png" />
 
 ---
 
