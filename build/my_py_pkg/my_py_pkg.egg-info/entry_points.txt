@@ -1,0 +1,4 @@
+[console_scripts]
+hardware_pub = my_py_pkg.hardware_publisher:main
+hardware_sub = my_py_pkg.hardware_subscriber:main
+

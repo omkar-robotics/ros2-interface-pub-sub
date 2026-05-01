@@ -1,0 +1,1 @@
+/home/omi/interface_ws/src/my_robot_interfaces/msg/HardwareStatus.msg
